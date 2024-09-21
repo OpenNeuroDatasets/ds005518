@@ -24,5 +24,8 @@
     ],
     "EthicsApprovals": [
         "All procedures were approved by the HSE Committee on Interuniversity Surveys and Ethical Assessment of Empirical Research (Protocol № 74)."
+    ],
+    "ReferencesAndLinks": [
+        "https://github.com/intoumanis/fMRI_persuasion"
     ]
 }

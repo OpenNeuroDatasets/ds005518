@@ -28,5 +28,6 @@
     "ReferencesAndLinks": [
         "https://github.com/intoumanis/fMRI_persuasion"
     ],
-    "HowToAcknowledge": "Please cite the corresponding paper: [to be added upon publication]"
+    "HowToAcknowledge": "Please cite the corresponding paper: [to be added upon publication]",
+    "DatasetDOI": "doi:10.18112/openneuro.ds005518.v1.0.0"
 }

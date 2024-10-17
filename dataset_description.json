@@ -29,5 +29,5 @@
         "https://github.com/intoumanis/fMRI_persuasion"
     ],
     "HowToAcknowledge": "Please cite the corresponding paper: Ntoumanis I, Sheronova J, Davydova A, et al. Deciphering the neural responses to a naturalistic persuasive message. Proc Natl Acad Sci U S A. 2024;121(43):e2401317121. doi:10.1073/pnas.2401317121. https://www.pnas.org/doi/10.1073/pnas.2401317121",
-    "DatasetDOI": "doi:10.18112/openneuro.ds005518.v1.0.0"
+    "DatasetDOI": "doi:10.18112/openneuro.ds005518.v1.0.1"
 }
